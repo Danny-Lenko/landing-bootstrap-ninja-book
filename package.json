@@ -1,0 +1,23 @@
+{
+  "name": "landing-bootstrap-ninja-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyLenk/landing-bootstrap-ninja-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyLenk/landing-bootstrap-ninja-book/issues"
+  },
+  "homepage": "https://github.com/DannyLenk/landing-bootstrap-ninja-book#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1"
+  }
+}
